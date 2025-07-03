@@ -6,3 +6,9 @@ h1{
     color:chartreuse
 
 }
+header{
+     border-bottom: solid 2px rgb(88, 160, 160);
+     padding: 20px;
+     
+
+}
